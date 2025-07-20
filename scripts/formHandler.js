@@ -120,7 +120,7 @@ document.getElementById('helpButton').addEventListener('click', function () {
         '   Append the appropriate number to the end of the file name (after the underscore).\n' +
         '   For example, if you have 3 characters, name it 1CHARACTERSLOT_BETA_3.\n' +
         "7. The file gets stored on windows machines at\n" +
-        "   '%localappdata%\low\eleventh hour games\last epoch\saves'\n" +
+        "   '%localappdata%low\Eleventh Hour Games\Last Epoch\Saves'\n" +
         '   And on linux machines (UMMV) at\n' +
         "   '~/.steam/steam/steamapps/compatdata/899770/pfx/drive_c/users/steamuser/AppData/LocalLow/Eleventh Hour Games/Last Epoch/Saves'\n");
 });
