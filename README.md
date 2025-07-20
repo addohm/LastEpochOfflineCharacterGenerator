@@ -6,6 +6,8 @@ Why?  Well simply put, after grinding to 100 once, why do it again?  Its agonizi
 
 No, there is no anti-cheat.  Its OFFLINE!  It's as it should be.
 
+https://addohm.github.io/LastEpochOfflineCharacterGenerator/
+
 # How to use this tool
 1. Enter a character name.
 2. Select the timeline depth (0 for base, 1 for Pre-Monolith, 2 for Aberroth).
